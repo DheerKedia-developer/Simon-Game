@@ -18,7 +18,7 @@ The game displays a growing sequence of colors, and the user must remember and r
 
 ## 🌐 Live Demo
 
-[🔗 View Live Game](https://DheerKedia-developer.github.io/simon-game/)  
+[🔗 View Live Game]( https://dheerkedia-developer.github.io/Simon-Game/)  
 
 ---
 
